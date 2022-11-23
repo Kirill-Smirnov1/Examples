@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.exe
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.deps.json
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.runtimeconfig.json
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.dll
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\bin\Debug\net6.0\Example008_IntoMethod.pdb
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.dll
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\refint\Example008_IntoMethod.dll
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.pdb
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\Example008_IntoMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Examples\Example008_IntoMethod\obj\Debug\net6.0\ref\Example008_IntoMethod.dll
